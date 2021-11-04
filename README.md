@@ -8,6 +8,7 @@
 
 Added the Cheese repository
 - Added the Cheesy Program to the Cheese Repository
+- Added the Shipping Calculator to the ShippingClac Repository
 
 <!---
 lgdsteve/lgdsteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
