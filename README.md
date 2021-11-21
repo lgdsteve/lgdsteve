@@ -6,7 +6,7 @@
 
 
 
-Added the Cheese repository
+Changelog
 - Added the Cheesy Program to the Cheese Repository
 - Added the Shipping Calculator to the ShippingClac Repository
 - Added the VowelCounter to the VowelCounter Repository
